@@ -22,7 +22,7 @@ Responsive e-commerce product display page showcasing home decor and lifestyle i
 - Laptop Stand
 - LED Moon Lamp
 - Decorative Bottle
-
+ 
 ## Tech Stack
 
 - HTML5
@@ -38,3 +38,8 @@ Responsive e-commerce product display page showcasing home decor and lifestyle i
 ```
 
 Simply open the `product.html` file in any modern web browser to view the product showcase.
+## 📸 Screenshots
+
+### Home Page
+![Home](screenshots/home.png)
+
