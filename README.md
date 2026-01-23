@@ -10,7 +10,6 @@ Responsive e-commerce product display page showcasing home decor and lifestyle i
 - **Discount Display** - Percentage off indicators for sales
 - **Responsive Design** - Grid layout adapts to different screen sizes
 - **Product Images** - High-quality product photography
-- **Price Formatting** - Clear pricing in INR (Indian Rupees)
 
 ## Products Displayed
 
