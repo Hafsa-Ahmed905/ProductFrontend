@@ -28,8 +28,7 @@ Responsive e-commerce product display page showcasing home decor and lifestyle i
 - HTML5
 - CSS3
 - Responsive Grid/Flexbox Layout
-- Bootstrap (if applicable)
-
+- 
 ## Quick Start
 
 ```bash
